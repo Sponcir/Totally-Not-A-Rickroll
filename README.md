@@ -1,2 +1,4 @@
 # Totally-Not-A-Rickroll
-Paste this.sucks() into the console
+Zoom into the bottom left corner!
+
+paste this.sucks() into the console!
