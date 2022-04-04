@@ -1,0 +1,49 @@
+body{
+    position: center;
+}
+div.a{
+    margin-left: 600px;
+    margin-top: 20%;
+}
+
+h1{
+    color: black;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+    margin-left: 650px;
+}
+
+div.b{
+    margin-left: 600px;
+    color: black;
+}
+a.bbb{
+    border: 2px;
+    border-color: black solid;
+    color: black;
+}
+
+a.aaa{
+    color: black;
+}
+ul.bb{
+    border: 2px;
+    border-color: black solid;
+}
+a{
+    font-size: large;
+    letter-spacing: 3px;
+}
+a.pp{
+    color: black;
+    font-size: 5px;
+
+}
+footer{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        left: 0;
+}
