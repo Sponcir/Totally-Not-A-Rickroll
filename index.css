@@ -6,7 +6,7 @@ div.a{
     margin-top: 20%;
 }
 
-h1{
+h1.poo{
     color: black;
     display: flex;
     font-family: 'Courier New', Courier, monospace;
@@ -45,7 +45,9 @@ h1.z{
     position: absolute;
     bottom: 0;
     margin-right: 100px;
-    
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-size: 30px;
 }
 a.y{
     position: absolute;
