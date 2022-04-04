@@ -55,6 +55,7 @@ a.y{
     z-index: 4;
     color: black;
     font-size: 8px;
+    font-family: 'Courier New', Courier, monospace;
 }
 a.pp{
         position: absolute;
