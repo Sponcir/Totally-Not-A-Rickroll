@@ -47,7 +47,15 @@ h1.z{
     margin-right: 100px;
     
 }
-footer{
+a.y{
+    position: absolute;
+        bottom: 0;
+        width: 100%;
+        margin-left: 0px;
+    color: black;
+    font-size: 8px;
+}
+a.pp{
         position: absolute;
         bottom: 0;
         width: 100%;
