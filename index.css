@@ -51,7 +51,7 @@ a.y{
     position: absolute;
         bottom: 0;
         width: 100%;
-        margin-left: 900px;
+        margin-left: 100%;
     color: black;
     font-size: 8px;
 }
